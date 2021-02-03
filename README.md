@@ -74,6 +74,7 @@ A primer on the basics of the application is as follows.
 * <b>Swipe horizontally</b> to repeat the current subtitle audio
 
 <h2>Exporting to AnkiDroid</h2>
+
 * You may also export the current context to an <b>AnkiDroid card, including the current frame and audio</b>
 * Having a word in the clipboard <b>will include the sentence, word, meaning and reading</b> in the export
 * <b>You may edit the sentence, word, meaning and reading text fields</b> before sharing to AnkiDroid
