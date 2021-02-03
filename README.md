@@ -34,20 +34,20 @@
 <h1>A glimpse of jidoujisho in action</h1>
 
 <p align="center">
-  <a href="https://postimg.cc/kBmF6dFY" target="_blank"><img src="https://i.postimg.cc/QxB6z8BD/Screenshot-20210201-071958.jpg" width="300"/></a>
-  <a href="https://postimg.cc/Z0VsSnhF" target="_blank"><img src="https://i.postimg.cc/zX1sTHtM/Screenshot-20210204-065320.jpg" width="300"/></a>
-  <a href="https://postimg.cc/14NJVBxX" target="_blank"><img src="https://i.postimg.cc/kMTZZYfQ/Screenshot-20210201-072859.jpg" width="300"/></a>
+  <a href="https://postimg.cc/kBmF6dFY" target="_blank"><img src="https://i.postimg.cc/QxB6z8BD/Screenshot-20210201-071958.jpg" width="250"/></a>
+  <a href="https://postimg.cc/Z0VsSnhF" target="_blank"><img src="https://i.postimg.cc/zX1sTHtM/Screenshot-20210204-065320.jpg" width="250"/></a>
+  <a href="https://postimg.cc/14NJVBxX" target="_blank"><img src="https://i.postimg.cc/kMTZZYfQ/Screenshot-20210201-072859.jpg" width="250"/></a>
 </p>
 <p align="center">
-  <a href="https://postimg.cc/s1Yy9p7f" target="_blank"><img src="https://i.postimg.cc/T2Swx0Pb/Screenshot-20210204-081519.jpg" height="480"/></a>
-  <a href="https://postimg.cc/fVrhT5nC" target="_blank"><img src="https://i.postimg.cc/PqtfyFSg/Screenshot-20210204-081552.jpg" height="480"/></a>
-  <a href="https://postimg.cc/sBq5VFgc" target="_blank"><img src="https://i.postimg.cc/DZy6PnVt/Screenshot-20210204-065707.jpg" height="480"/></a>
-  <a href="https://postimg.cc/WDhMLpTz" target="_blank"><img src="https://i.postimg.cc/d09nCDf2/Screenshot-20210204-065728.jpg" height="480"/></a>
+  <a href="https://postimg.cc/s1Yy9p7f" target="_blank"><img src="https://i.postimg.cc/T2Swx0Pb/Screenshot-20210204-081519.jpg" height="400"/></a>
+  <a href="https://postimg.cc/fVrhT5nC" target="_blank"><img src="https://i.postimg.cc/PqtfyFSg/Screenshot-20210204-081552.jpg" height="400"/></a>
+  <a href="https://postimg.cc/sBq5VFgc" target="_blank"><img src="https://i.postimg.cc/DZy6PnVt/Screenshot-20210204-065707.jpg" height="400"/></a>
+  <a href="https://postimg.cc/WDhMLpTz" target="_blank"><img src="https://i.postimg.cc/d09nCDf2/Screenshot-20210204-065728.jpg" height="400"/></a>
 </p>
 <p align="center">
-  <a href="https://postimg.cc/T5XmDrm5" target="_blank"><img src="https://i.postimg.cc/Y0vxTRCR/Screenshot-20210204-070159.jpg" width="300"/></a>
-  <a href="https://postimg.cc/JHcXcGc6" target="_blank"><img src="https://i.postimg.cc/Y0Tx7F4H/Screenshot-20210204-070337.jpg" width="300"/></a>
-  <a href="https://postimg.cc/7fn1SQKH" target="_blank"><img src="https://i.postimg.cc/8PqyQ2W6/Screenshot-20210201-232317.jpg" width="300"/></a>
+  <a href="https://postimg.cc/T5XmDrm5" target="_blank"><img src="https://i.postimg.cc/Y0vxTRCR/Screenshot-20210204-070159.jpg" width="250"/></a>
+  <a href="https://postimg.cc/JHcXcGc6" target="_blank"><img src="https://i.postimg.cc/Y0Tx7F4H/Screenshot-20210204-070337.jpg" width="250"/></a>
+  <a href="https://postimg.cc/7fn1SQKH" target="_blank"><img src="https://i.postimg.cc/8PqyQ2W6/Screenshot-20210201-232317.jpg" width="250"/></a>
 </p>
 
 <h1>Contribution and attribution</h1>
