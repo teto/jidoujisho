@@ -55,6 +55,7 @@
 <h1>Using the application</h1>
 
 <h3>Supported Formats</h2>
+
 jidoujisho will take <b>video and audio formats as supported by ExoPlayer</b>. Subtitles may be embedded within the video being played and selected during playback. 
 
 If you wish to use external subtitles, they may be in <b>.SRT format</b> and <b>must be named with the same basename as the video file</b> (i.e. to play external subtitles for "CLANNAD S01E01.mkv" you must name the subtitle "CLANNAD S01E01.srt". You may switch between different audio and subtitle tracks. Image-based subtitles such as PGS are not currently supported.
