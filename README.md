@@ -60,7 +60,7 @@ jidoujisho will take <b>video and audio formats as supported by ExoPlayer</b>. S
 
 If you wish to use external subtitles, they may be in <b>.SRT format</b> and <b>must be named with the same basename as the video file</b> (i.e. to play external subtitles for "CLANNAD S01E01.mkv" you must name the subtitle "CLANNAD S01E01.srt". You may switch between different audio and subtitle tracks. Image-based subtitles such as PGS are not currently supported.
 
-Web support for YouTube is <b>currently experimental</b>. YouTube subtitles are taken from TimedText XML, which is only publicly exposed to videos that have user-generated Japanese subtitles. Unfortunately, some particular videos cannot be streamed. Regardless, the app appears to be functional and has been tested with a fair sample of practical application use cases.
+Web support for YouTube is <b>currently experimental</b>. YouTube subtitles are taken from TimedText XML, which is only publicly exposed to videos that have user-generated Japanese subtitles. Unfortunately, some particular videos cannot be streamed. Regardless, <a href="https://www.youtube.com/watch?v=mZ0sJQC8qkE">the app appears to be functional</a> <a href="https://www.youtube.com/watch?v=X9zw0QF12Kc">and has been tested with a fair sample</a> <a href="https://www.youtube.com/watch?v=t1yXDcuwzpY">of practical application use cases.</a>
 
 <h2>Getting Started</h2>
 
