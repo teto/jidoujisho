@@ -25,6 +25,7 @@
 
 <b>jidoujisho is still in active development.</b> The app will be available publicly to download in GitHub at an early stage, and will be free to download on the Google Play Store. Current features on planned on the roadmap listed below, but as of now there is no estimate on any updates.
 
+- [ ] <b>Use of the AnkiDroid API</b> instead of share intent to streamline card export
 - [ ] <b>User interface, layout, video playback preferences</b> and Anki output customisation
 - [ ] Multiple subtitle tracks at a given time, and <b>immersion difficulty levels</b> for oral practice
 - [ ] <b>Morphological analysis of subtitles</b> for better text selection and <b>offline dictionary use</b>
