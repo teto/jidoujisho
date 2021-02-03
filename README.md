@@ -81,8 +81,8 @@ A primer on the basics of the application is as follows.
 * To finalise the export, <b>share the exported text to AnkiDroid</b>
 * The <b>front of the card</b> will include the <b>audio, video and sentence</b>
 * The <b>back of the card</b> will include the <b>reading, word and meaning</b>
-* You may apply changes to the card such as bolding and other text formatting with the AnkiDroid editor once shared
-* Extensive customisation of the Anki export is planned
+* You may apply changes to the card such as <b>bolding and other text formatting with the AnkiDroid editor once shared</b>
+* <b>Extensive customisation of the Anki export is planned</b>
 
 <h1>Contribution and attribution</h1>
 
