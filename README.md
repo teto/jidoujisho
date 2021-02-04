@@ -3,12 +3,12 @@
 </p>
 
 
-<h3 align="center">jidoujisho</h3>
+<h3 align="center">jidoujisho</h🌐3>
 <p align="center">A mobile video player tailored for Japanese language learners.</p>
 
-<p align="center"><b>Latest Beta: <a href="">0.3.0</a></p></b><br>
+<p align="center"><b>Latest Beta: <a href="https://github.com/lrorpilla/jidoujisho/releases/tag/beta">0.3.0</a></p></b><br>
 
-# Uninterrupted language immersion at your fingertips
+# 📚 Uninterrupted language immersion at your fingertips
 
 **jidoujisho** is an Android video player with features specifically helpful for language learners. 
 
@@ -20,7 +20,7 @@
 - [x] Swipe vertically to open the **transcript to jump to time and review subtitles**
 - [x] **(Experimental)** YouTube support for videos with Japanese user-generated subtitles
 
-# More features are on the way
+# 🛠️ More features are on the way
 
 **jidoujisho is still in active development.** The app will be available publicly to download in GitHub at an early stage, and will be free to download on the Google Play Store. Current features planned on the roadmap listed below, but as of now there is no estimate on any updates.
 
@@ -32,28 +32,28 @@
 - [ ] **Support for more languages,** and more easier ways for contributors to extend language support
 - [ ] Tinker around with releasing the app on **other platforms if possible**
 
-# A glimpse of jidoujisho in action
+# 🎞️ A glimpse of jidoujisho in action
 
 <p align="center">
-  <img src="https://i.postimg.cc/QxB6z8BD/Screenshot-20210201-071958.jpg" width="250"/>
-  <img src="https://i.postimg.cc/zX1sTHtM/Screenshot-20210204-065320.jpg" width="250"/>
-  <img src="https://i.postimg.cc/kMTZZYfQ/Screenshot-20210201-072859.jpg" width="250"/>
+  <img src="https://i.postimg.cc/QxB6z8BD/Screenshot-20210201-071958.jpg" width="223"/>
+  <img src="https://i.postimg.cc/zX1sTHtM/Screenshot-20210204-065320.jpg" width="223"/>
+  <img src="https://i.postimg.cc/kMTZZYfQ/Screenshot-20210201-072859.jpg" width="223"/>
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/T2Swx0Pb/Screenshot-20210204-081519.jpg" height="400"/>
-  <img src="https://i.postimg.cc/PqtfyFSg/Screenshot-20210204-081552.jpg" height="400"/>
-  <img src="https://i.postimg.cc/DZy6PnVt/Screenshot-20210204-065707.jpg" height="400"/>
-  <img src="https://i.postimg.cc/d09nCDf2/Screenshot-20210204-065728.jpg" height="400"/>
+  <img src="https://i.postimg.cc/T2Swx0Pb/Screenshot-20210204-081519.jpg" height="350"/>
+  <img src="https://i.postimg.cc/PqtfyFSg/Screenshot-20210204-081552.jpg" height="350"/>
+  <img src="https://i.postimg.cc/DZy6PnVt/Screenshot-20210204-065707.jpg" height="350"/>
+  <img src="https://i.postimg.cc/d09nCDf2/Screenshot-20210204-065728.jpg" height="350"/>
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/Y0vxTRCR/Screenshot-20210204-070159.jpg" width="250"/>
-  <img src="https://i.postimg.cc/Y0Tx7F4H/Screenshot-20210204-070337.jpg" width="250"/>
-  <img src="https://i.postimg.cc/8PqyQ2W6/Screenshot-20210201-232317.jpg" width="250"/>
+  <img src="https://i.postimg.cc/Y0vxTRCR/Screenshot-20210204-070159.jpg" width="223"/>
+  <img src="https://i.postimg.cc/Y0Tx7F4H/Screenshot-20210204-070337.jpg" width="223"/>
+  <img src="https://i.postimg.cc/8PqyQ2W6/Screenshot-20210201-232317.jpg" width="223"/>
 </p>
 
-# Using the application
+# 📖 Using the application
 
-## Supported Formats
+### 🚨 Supported Formats
 
 jidoujisho will take **video and audio formats as supported by ExoPlayer**. Subtitles may be embedded within the video being played and selected during playback. 
 
@@ -61,30 +61,30 @@ If you wish to use external subtitles, they may be in **.SRT format** and **must
 
 Web support for YouTube is **currently experimental**. YouTube subtitles are taken from TimedText XML, which is only publicly exposed to videos that have user-generated Japanese subtitles. Unfortunately, some particular videos cannot be streamed. Regardless, <a href="https://www.youtube.com/watch?v=mZ0sJQC8qkE">the app appears to be functional</a> <a href="https://www.youtube.com/watch?v=X9zw0QF12Kc">and has been tested with a fair sample</a> <a href="https://www.youtube.com/watch?v=t1yXDcuwzpY">of practical application use cases.</a>
 
-## Getting Started
+### 🚀 Getting Started
 
 A primer on the basics of the application is as follows.
 
-* Play a video by selecting from your **local media library or entering a YouTube URL**
-* Select text by simply holding on them, and **copy them to clipboard when prompted**
-* When the **dictionary definition** for the text shows up, the text is the **current context**
-* Closing the dictionary prompt will **clear the clipboard**
-* The current context may be used to **open browser links to third-party websites**
-* You may **swipe vertically to open the transcript**, and you can pick a time or read subtitles from there
-* **Swipe horizontally** to repeat the current subtitle audio
+* ⏯️ Play a video by selecting from your **local media library or entering a YouTube URL**
+* 📋 Select text by simply holding on them, and **copy them to clipboard when prompted**
+* 📔 When the **dictionary definition** for the text shows up, the text is the **current context**
+* 🗑️ Closing the dictionary prompt will **clear the clipboard**
+* 🌐 The current context may be used to **open browser links to third-party websites**
+* ↕️ You may **swipe vertically to open the transcript**, and you can pick a time or read subtitles from there
+* ↔️ **Swipe horizontally** to repeat the current subtitle audio
 
-## Exporting to AnkiDroid
+### 📲 Exporting to AnkiDroid
 
-* You may also export the current context to an **AnkiDroid card, including the current frame and audio**
-* Having a word in the clipboard **will include the sentence, word, meaning and reading** in the export
-* **You may edit the sentence, word, meaning and reading text fields** before sharing to AnkiDroid
-* To finalise the export, **share the exported text to AnkiDroid**
-* The **front of the card** will include the **audio, video and sentence**
-* The **back of the card** will include the **reading, word and meaning**
-* You may apply changes to the card such as **bolding and other text formatting with the AnkiDroid editor once shared**
-* **Extensive customisation of the Anki export is planned**
+* 📤 You may also export the current context to an **AnkiDroid card, including the current frame and audio**
+* 🔤 Having a word in the clipboard **will include the sentence, word, meaning and reading** in the export
+* 📝 **You may edit the sentence, word, meaning and reading text fields** before sharing to AnkiDroid
+* 🔗 To finalise the export, **share the exported text to AnkiDroid**
+* 🃏 The **front of the card** will include the **audio, video and sentence**
+* 🎴 The **back of the card** will include the **reading, word and meaning**
+* 📑 You may apply **text formatting to the card with the AnkiDroid editor once shared**
+* ⚛️ **Extensive customisation of the Anki export is planned**
 
-# Contribution and attribution
+# 👥 Contribution and attribution
 
 jidoujisho is written in <b><a href="https://dart.dev/">Dart</a></b> and powered by <b><a href="https://flutter.dev/">Flutter</a></b>. At present, the project may still need to be refactored and cleaned up as well as setting up of forks for the modified imports used in the project. Regardless, the app is ready for use and feedback in these early stages is much appreciated.
 
